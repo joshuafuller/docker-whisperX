@@ -60,6 +60,8 @@ target "build" {
       "ka",
       "lv",
       "tl",
+      "sv",
+      "id"
     ]
   }
 

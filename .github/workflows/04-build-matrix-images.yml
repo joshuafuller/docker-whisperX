@@ -68,6 +68,8 @@ jobs:
           - ka
           - lv
           - tl
+          - sv
+          - id
         model:
           - tiny
           - base
@@ -189,6 +191,8 @@ jobs:
           - ka
           - lv
           - tl
+          - sv
+          - id
         model:
           - small
           - medium
@@ -380,6 +384,8 @@ jobs:
           - ka
           - lv
           - tl
+          - sv
+          - id
         model:
           - tiny
           - base
