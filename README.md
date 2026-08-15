@@ -130,12 +130,3 @@ docker run --gpus all -it -v ".:/app" whisperx:large-v3-ja -- --output_format sr
 
 The Dockerfile and CI workflow files in this repository are licensed under [the MIT license](LICENSE).
 
-## 🌟 Star History
-
-<a href="https://www.star-history.com/#jim60105/docker-whisperX&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jim60105/docker-whisperX&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jim60105/docker-whisperX&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jim60105/docker-whisperX&type=Date" />
- </picture>
-</a>
